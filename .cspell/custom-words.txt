@@ -1,0 +1,4 @@
+tailwindcss
+nprogress
+daisyui
+mytheme
